@@ -4,8 +4,8 @@ higher and lower game
 
 g++ -o main source.cpp  ->  ./main    
 
-max
 min
+max
 
 
 1-100
