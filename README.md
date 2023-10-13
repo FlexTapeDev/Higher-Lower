@@ -1,12 +1,5 @@
 # Higher-Lower
-higher and lower game
-
-
-g++ -o main source.cpp  ->  ./main    
-
-min
-max
-
+higher and lower game 💯💯💯
 
 1-100
 
